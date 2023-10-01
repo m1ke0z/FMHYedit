@@ -425,6 +425,7 @@
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction Tips
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
+* [The Integral Guide to Well-Being](https://integralguide.com/) - Wiki-like Guide For Mental Well-Being
 * [Year In Pixels](https://year-in-pixels.glitch.me/) - Mood Tracking Calendar
 * [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) - Medical Data Log
 * [Simpill](https://gitlab.com/simpilldev/simpill) - Medication Reminders
